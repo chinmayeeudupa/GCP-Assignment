@@ -33,14 +33,14 @@
 
 - The Customers.csv and Orders.csv files must be placed in the below folder structure on the local system:
 
-! [Folder Structure](./Part 1/img/FolderStrcuture.png)
+! [Folder Structure](./Part&#32;1/img/FolderStrcuture.png)
 
 ### Steps
 After successful execution a new bucket should be created and the files should be available as shown below:
 
-![New Bucket](./Part\ 1/img/Created\ Bucket.png)
+![New Bucket](./Part&#32;1/img/Created&#32;Bucket.png)
 
-![Uploaded Files](./Part\ 1/img/Files\ in\ the\ bucket.png)
+![Uploaded Files](./Part&#32;1/img/Files&#32;in&#32;the&#32;bucket.png)
 
 
 ## Part 2
@@ -65,15 +65,15 @@ or
 After successful execution:
 - Files should be downloaded from the cloud storage:
 
-![Downloaded Files](./Part\ 2/img/DownloadedFiles.png)
+![Downloaded Files](./Part&#32;2/img/DownloadedFiles.png)
 
 - New dataset, schema and table should be created:
 
-![Dataset](./Part\ 2/img/Table\ Schema\ under\ the\ Dataset.png)
+![Dataset](./Part&#32;2/img/Table&#32;Schema&#32;under&#32;the&#32;Dataset.png)
 
 - Data after merging the two files should be loaded into the newly created table:
 
-![Table](./Part\ 2/img/Merged\ Table\ Preview.png)
+![Table](./Part&#32;2/img/Merged&#32;Table&#32;Preview.png)
 
 
 ## References
