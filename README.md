@@ -13,7 +13,6 @@
 * [Part 2](#download-and-load-data-into-table)
 	* [Pre Requisites](#pre-requisites2)
 	* [Steps](#steps2)
-	* [Output](#output2)
 * [References](#references)
 
 
