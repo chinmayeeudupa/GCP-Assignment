@@ -11,8 +11,8 @@
 	* [Pre Requisites](#pre-requisites)
 	* [Steps](#steps)
 * [Part 2](#part-2)
-	* [Pre Requisites-1](#pre-requisites)
-	* [Steps-1](#steps)
+	* [Pre Requisites](#pre-requisites-1)
+	* [Steps](#steps-1)
 * [References](#references)
 
 
