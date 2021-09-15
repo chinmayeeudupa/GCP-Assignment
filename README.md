@@ -32,7 +32,7 @@
 
 - The Customers.csv and Orders.csv files must be placed in the below folder structure on the local system:
 
-! [Folder Structure](./Part&#32;1/img/FolderStructure.png)
+![Folder Structure](./Part&#32;1/img/FolderStructure.png)
 
 ### Steps
 After successful execution a new bucket should be created and the files should be available as shown below:
