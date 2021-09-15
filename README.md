@@ -7,12 +7,12 @@
 - Load the data from the merged table
 
 ## Table of Contents
-* [Part 1](#upload-files)
-	* [Pre Requisites](#pre-requisites1)
-	* [Steps](#steps1)
-* [Part 2](#download-and-load-data-into-table)
-	* [Pre Requisites](#pre-requisites2)
-	* [Steps](#steps2)
+* [Part 1](#part-1)
+	* [Pre Requisites](#pre-requisites)
+	* [Steps](#steps)
+* [Part 2](#part-2)
+	* [Pre Requisites-1](#pre-requisites)
+	* [Steps-1](#steps)
 * [References](#references)
 
 
