@@ -38,9 +38,9 @@
 ### Steps
 After successful execution a new bucket should be created and the files should be available as shown below:
 
-![New Bucket](./Part 1/img/Created Bucket.png)
+![New Bucket](./Part\ 1/img/Created\ Bucket.png)
 
-![Uploaded Files](./Part 1/img/Files in the bucket.png)
+![Uploaded Files](./Part\ 1/img/Files\ in\ the\ bucket.png)
 
 
 ## Part 2
@@ -65,19 +65,15 @@ or
 After successful execution:
 - Files should be downloaded from the cloud storage:
 
-![Downloaded Files](./Part 1/img/DownloadedFiles.png)
+![Downloaded Files](./Part\ 2/img/DownloadedFiles.png)
 
 - New dataset, schema and table should be created:
 
-![Dataset](./Part 1/img/Table Schema under the Dataset.png)
+![Dataset](./Part\ 2/img/Table\ Schema\ under\ the\ Dataset.png)
 
 - Data after merging the two files should be loaded into the newly created table:
 
-![Table](./Part 1/img/Merged Table Preview.png)
-
-
-### Output
-
+![Table](./Part\ 2/img/Merged\ Table\ Preview.png)
 
 
 ## References
