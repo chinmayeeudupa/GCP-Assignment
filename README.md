@@ -49,7 +49,7 @@ After successful execution a new bucket should be created and the files should b
 - Load the data from the merged table
 
 
-### Pre Requisite
+### Pre Requisites
 - Install the required client libraries by executing the below commands in the terminal:
 
 `pip install --upgrade google-auth-oauthlib`
